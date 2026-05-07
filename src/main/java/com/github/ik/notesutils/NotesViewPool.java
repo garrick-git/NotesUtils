@@ -15,7 +15,7 @@
    limitations under the License.
 ==================================================================== */
 
-package com.github.igor_kudryashov.notesutils;
+package com.github.ik.notesutils;
 
 import java.util.HashMap;
 import java.util.Map;

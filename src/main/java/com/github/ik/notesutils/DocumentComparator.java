@@ -1,4 +1,4 @@
-package com.github.igor_kudryashov.notesutils;
+package com.github.ik.notesutils;
 
 /* ====================================================================
 Licensed to the Apache Software Foundation (ASF) under one or more
